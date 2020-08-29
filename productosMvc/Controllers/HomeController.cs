@@ -28,6 +28,13 @@ namespace productosMvc.Controllers
             return View();
         }
 
+        public IActionResult About()
+        {
+            ViewData["Message"] = "Aplicación CRUD de Productos.";
+
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
