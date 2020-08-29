@@ -11,7 +11,7 @@ namespace productosMvc.Context
     public class DbConnection : DbContext
     {
         private IConfiguration Configuration;
-        public virtual DbSet<Producto> Productos { get; set; }
+        public virtual DbSet<Producto> Producto { get; set; }
 
         public DbConnection(IConfiguration configuration) 
         {

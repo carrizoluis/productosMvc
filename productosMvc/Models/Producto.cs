@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -9,7 +10,8 @@ namespace productosMvc.Models
     public class Producto
     {
         [Key]
-        public ulong IdProducto { get; set; }
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int? IdProducto { get; set; }
         public DateTime FechaAlta { get; set; }
         public DateTime FechaModificacion { get; set; }
         public string CodigoBarra { get; set; }
