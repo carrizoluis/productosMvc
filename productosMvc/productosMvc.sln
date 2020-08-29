@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "productosMvc", "productosMvc.csproj", "{3902BA6E-1C70-4711-8DDB-96BB81C35ADD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "productosMvc", "productosMvc.csproj", "{3902BA6E-1C70-4711-8DDB-96BB81C35ADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB.Entidades", "..\DB.Entidades\DB.Entidades.csproj", "{816458C2-BA37-4009-BBF8-11DA8639D1DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3902BA6E-1C70-4711-8DDB-96BB81C35ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3902BA6E-1C70-4711-8DDB-96BB81C35ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3902BA6E-1C70-4711-8DDB-96BB81C35ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816458C2-BA37-4009-BBF8-11DA8639D1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816458C2-BA37-4009-BBF8-11DA8639D1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816458C2-BA37-4009-BBF8-11DA8639D1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816458C2-BA37-4009-BBF8-11DA8639D1DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
