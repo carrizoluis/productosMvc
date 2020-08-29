@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DB.Entidades.DbConnection
+namespace DB.Entidades.Context
 {
     public class DbConnection : DbContext
     {

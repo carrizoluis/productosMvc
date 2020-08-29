@@ -3,3 +3,7 @@ C:\Users\Luis Alberto Carrizo\source\repos\productosMvc\DB.Entidades\bin\Debug\n
 C:\Users\Luis Alberto Carrizo\source\repos\productosMvc\DB.Entidades\obj\Debug\netcoreapp3.1\DB.Entidades.csprojAssemblyReference.cache
 C:\Users\Luis Alberto Carrizo\source\repos\productosMvc\DB.Entidades\obj\Debug\netcoreapp3.1\DB.Entidades.AssemblyInfoInputs.cache
 C:\Users\Luis Alberto Carrizo\source\repos\productosMvc\DB.Entidades\obj\Debug\netcoreapp3.1\DB.Entidades.AssemblyInfo.cs
+C:\Users\Luis Alberto Carrizo\source\repos\productosMvc\DB.Entidades\bin\Debug\netcoreapp3.1\DB.Entidades.pdb
+C:\Users\Luis Alberto Carrizo\source\repos\productosMvc\DB.Entidades\obj\Debug\netcoreapp3.1\DB.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luis Alberto Carrizo\source\repos\productosMvc\DB.Entidades\obj\Debug\netcoreapp3.1\DB.Entidades.dll
+C:\Users\Luis Alberto Carrizo\source\repos\productosMvc\DB.Entidades\obj\Debug\netcoreapp3.1\DB.Entidades.pdb

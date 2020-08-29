@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -17,6 +17,10 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.7" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DB.Entidades\DB.Entidades.csproj" />
   </ItemGroup>
 
 </Project>
